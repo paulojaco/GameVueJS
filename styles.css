@@ -1,0 +1,59 @@
+
+body{
+    background-color: #4d4d4d;
+}
+
+#meLife{
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+#opponentLife{
+    margin-left: 970px;
+    margin-top: -40px;
+    color: white;
+    
+}
+
+#attack{
+    margin-top: 200px;
+    margin-left: 50px;
+    width: 200px;
+}
+
+#cure{
+    margin-top: 200px;
+    margin-left: 50px;
+    width: 200px;
+}
+
+#DumbCalm {
+    margin-top: 140px;
+    height: 250px;
+}
+
+#GandCalm{
+    margin-top: 140px;
+    margin-left: 945px;
+    height: 250px;
+}
+
+#DangerDumbI {
+    margin-top: -500px;
+    height: 550px;
+}
+
+#DangerGandI {
+    margin-top: 140px;
+    margin-left: 945px;
+    height: 250px;
+}
+
+#result {
+    font-size: 100px;
+    color: white;
+    margin-left: 390px;
+    margin-top: 50px;
+}
